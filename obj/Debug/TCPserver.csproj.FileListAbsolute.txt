@@ -1,0 +1,7 @@
+C:\Users\Osdan\source\repos\TCPserver\bin\Debug\TCPserver.exe.config
+C:\Users\Osdan\source\repos\TCPserver\bin\Debug\TCPserver.exe
+C:\Users\Osdan\source\repos\TCPserver\bin\Debug\TCPserver.pdb
+C:\Users\Osdan\source\repos\TCPserver\obj\Debug\TCPserver.csproj.AssemblyReference.cache
+C:\Users\Osdan\source\repos\TCPserver\obj\Debug\TCPserver.csproj.CoreCompileInputs.cache
+C:\Users\Osdan\source\repos\TCPserver\obj\Debug\TCPserver.exe
+C:\Users\Osdan\source\repos\TCPserver\obj\Debug\TCPserver.pdb
